@@ -35,11 +35,11 @@ export default function Hero() {
           <span className="text-subtle">/ Remote · Colombia · UTC-5</span>
         </div>
 
-        <h1 className="display mt-10 text-balance text-[clamp(3.25rem,10vw,9rem)]">
+        <h1 className="display mt-10 text-balance text-[clamp(2.75rem,6.5vw,6rem)]">
           Emerson Albornoz
         </h1>
 
-        <p className="display-light mt-4 text-[clamp(1.75rem,4vw,3.25rem)] text-accent-warm">
+        <p className="display-light mt-4 text-[clamp(1.75rem,3.5vw,3rem)] text-accent-warm">
           Software Engineer
         </p>
 

@@ -13,7 +13,7 @@ export default function Icon() {
         alignItems: "center",
         justifyContent: "center",
         background: "#0a0a0b",
-        color: "#f7990c",
+        color: "#cac9c8",
         fontSize: 23,
         fontWeight: 800,
         fontFamily: "Arial",
@@ -22,7 +22,7 @@ export default function Icon() {
         boxSizing: "border-box",
       }}
     >
-      E
+      e
     </div>,
     size,
   );
